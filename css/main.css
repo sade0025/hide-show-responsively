@@ -11,6 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -31,6 +32,7 @@ img {
 .dino:nth-child(4) {
   display: none;
 }
+
 @media only screen and (min-width: 25em) {
 
   .dino {
